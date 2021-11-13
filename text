@@ -1,0 +1,6 @@
+// bundleID
+host.exp.exponent
+
+// android hashes
+expo fetch:android:hashes
+expo build:android
